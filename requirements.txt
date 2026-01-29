@@ -1,0 +1,7 @@
+flet
+plotly
+pandas
+pandas-ta
+MetaTrader5
+numpy
+pytz
